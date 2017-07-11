@@ -6,6 +6,8 @@
 
 - [Linux 檔案與目錄管理](http://linux.vbird.org/linux_basic/0220filemanager.php#cd)
 
+---
+
 ### ls
 
 `ls`全名叫`list`意思就是列出當前目錄底下的檔案(不包括隱藏檔)，`ls`也衍生出了許多組合的指令<br />
@@ -15,11 +17,15 @@
 
 - [簡易的文字指令操作](http://linux.vbird.org/linux_basic_train/unit01.php#1.4)
 
+---
+
 ### mkdir 資料夾名稱
 
 `mkdir`全名叫`make directory`意思就是新增一個資料夾
 
 - [mkdir](http://linux.vbird.org/linux_basic/0220filemanager.php#mkdir)
+
+---
 
 ### touch 檔案名稱
 
@@ -28,6 +34,7 @@
 - [修改檔案時間或建置新檔](http://linux.vbird.org/linux_basic/0220filemanager.php#touch)
 
 ---
+# git
 
 ## git 基本觀念
 
@@ -36,8 +43,6 @@
 3. 在 commit 之前需先將改過的東西加到 staging area，然後再用 commit 進行提交<br>
 4. 養成一個好習慣，在準備將檔案上傳(push)到 server 前，記得先檢查一下狀態，語法會在底下說明<br>
 ---
-
-# git
 
 ## git 基本語法
 
